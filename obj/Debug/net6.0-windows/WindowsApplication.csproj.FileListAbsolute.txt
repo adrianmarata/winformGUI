@@ -1,0 +1,17 @@
+C:\Users\Hapi\source\repos\WindowsApplication\WindowsApplication\obj\Debug\net6.0-windows\WindowsApplication.csproj.AssemblyReference.cache
+C:\Users\Hapi\source\repos\WindowsApplication\WindowsApplication\obj\Debug\net6.0-windows\WindowsApplication.Form1.resources
+C:\Users\Hapi\source\repos\WindowsApplication\WindowsApplication\obj\Debug\net6.0-windows\WindowsApplication.csproj.GenerateResource.cache
+C:\Users\Hapi\source\repos\WindowsApplication\WindowsApplication\obj\Debug\net6.0-windows\WindowsApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hapi\source\repos\WindowsApplication\WindowsApplication\obj\Debug\net6.0-windows\WindowsApplication.AssemblyInfoInputs.cache
+C:\Users\Hapi\source\repos\WindowsApplication\WindowsApplication\obj\Debug\net6.0-windows\WindowsApplication.AssemblyInfo.cs
+C:\Users\Hapi\source\repos\WindowsApplication\WindowsApplication\obj\Debug\net6.0-windows\WindowsApplication.csproj.CoreCompileInputs.cache
+C:\Users\Hapi\source\repos\WindowsApplication\WindowsApplication\bin\Debug\net6.0-windows\WindowsApplication.exe
+C:\Users\Hapi\source\repos\WindowsApplication\WindowsApplication\bin\Debug\net6.0-windows\WindowsApplication.deps.json
+C:\Users\Hapi\source\repos\WindowsApplication\WindowsApplication\bin\Debug\net6.0-windows\WindowsApplication.runtimeconfig.json
+C:\Users\Hapi\source\repos\WindowsApplication\WindowsApplication\bin\Debug\net6.0-windows\WindowsApplication.dll
+C:\Users\Hapi\source\repos\WindowsApplication\WindowsApplication\bin\Debug\net6.0-windows\WindowsApplication.pdb
+C:\Users\Hapi\source\repos\WindowsApplication\WindowsApplication\obj\Debug\net6.0-windows\WindowsApplication.dll
+C:\Users\Hapi\source\repos\WindowsApplication\WindowsApplication\obj\Debug\net6.0-windows\refint\WindowsApplication.dll
+C:\Users\Hapi\source\repos\WindowsApplication\WindowsApplication\obj\Debug\net6.0-windows\WindowsApplication.pdb
+C:\Users\Hapi\source\repos\WindowsApplication\WindowsApplication\obj\Debug\net6.0-windows\WindowsApplication.genruntimeconfig.cache
+C:\Users\Hapi\source\repos\WindowsApplication\WindowsApplication\obj\Debug\net6.0-windows\ref\WindowsApplication.dll

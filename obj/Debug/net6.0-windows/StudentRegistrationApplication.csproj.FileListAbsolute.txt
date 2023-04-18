@@ -1,0 +1,17 @@
+C:\Users\Hapi\source\repos\WindowsApplication\WindowsApplication\bin\Debug\net6.0-windows\StudentRegistrationApplication.exe
+C:\Users\Hapi\source\repos\WindowsApplication\WindowsApplication\bin\Debug\net6.0-windows\StudentRegistrationApplication.deps.json
+C:\Users\Hapi\source\repos\WindowsApplication\WindowsApplication\bin\Debug\net6.0-windows\StudentRegistrationApplication.runtimeconfig.json
+C:\Users\Hapi\source\repos\WindowsApplication\WindowsApplication\bin\Debug\net6.0-windows\StudentRegistrationApplication.dll
+C:\Users\Hapi\source\repos\WindowsApplication\WindowsApplication\bin\Debug\net6.0-windows\StudentRegistrationApplication.pdb
+C:\Users\Hapi\source\repos\WindowsApplication\WindowsApplication\obj\Debug\net6.0-windows\StudentRegistrationApplication.csproj.AssemblyReference.cache
+C:\Users\Hapi\source\repos\WindowsApplication\WindowsApplication\obj\Debug\net6.0-windows\WindowsApplication.frmStudentRegistration.resources
+C:\Users\Hapi\source\repos\WindowsApplication\WindowsApplication\obj\Debug\net6.0-windows\StudentRegistrationApplication.csproj.GenerateResource.cache
+C:\Users\Hapi\source\repos\WindowsApplication\WindowsApplication\obj\Debug\net6.0-windows\StudentRegistrationApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hapi\source\repos\WindowsApplication\WindowsApplication\obj\Debug\net6.0-windows\StudentRegistrationApplication.AssemblyInfoInputs.cache
+C:\Users\Hapi\source\repos\WindowsApplication\WindowsApplication\obj\Debug\net6.0-windows\StudentRegistrationApplication.AssemblyInfo.cs
+C:\Users\Hapi\source\repos\WindowsApplication\WindowsApplication\obj\Debug\net6.0-windows\StudentRegistrationApplication.csproj.CoreCompileInputs.cache
+C:\Users\Hapi\source\repos\WindowsApplication\WindowsApplication\obj\Debug\net6.0-windows\StudentRegistrationApplication.dll
+C:\Users\Hapi\source\repos\WindowsApplication\WindowsApplication\obj\Debug\net6.0-windows\refint\StudentRegistrationApplication.dll
+C:\Users\Hapi\source\repos\WindowsApplication\WindowsApplication\obj\Debug\net6.0-windows\StudentRegistrationApplication.pdb
+C:\Users\Hapi\source\repos\WindowsApplication\WindowsApplication\obj\Debug\net6.0-windows\StudentRegistrationApplication.genruntimeconfig.cache
+C:\Users\Hapi\source\repos\WindowsApplication\WindowsApplication\obj\Debug\net6.0-windows\ref\StudentRegistrationApplication.dll
